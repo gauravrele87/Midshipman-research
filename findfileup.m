@@ -1,4 +1,5 @@
 %finds the specified 3 files to be joined together to form a 45 min file and used as a function
+% This is one of the test functions used to make the final findfile program
 
 function [infile1,infile2,infile3,erf] = findfilex(matlabday,xcen)
 
