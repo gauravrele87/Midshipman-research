@@ -1,3 +1,6 @@
+%This is a test for a single erry shipand finding the power before and after the ship passes using the data
+% that is already in the memory using the ferrydata
+
 load ferrydata.mat
 i = 151957;
 buffer1 = input('input a number','s');
